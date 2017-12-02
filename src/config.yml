@@ -1,5 +1,6 @@
-debug: true
+debug: false
 enabled: true
-listeners: [ '/192.168.128.4:1337' ]
+listeners: ['/192.168.1.5:1337']
 hostnames: []
-remoteips: [ '192.168.1.1' ]
+remoteips: ['192.168.1.1']
+players: ['Foobar@192.168.1.7/*']

@@ -1,7 +1,7 @@
 name: SessionSkip
-main: net.gameon365.mc.plugins.bungee.sessionskip.SessionSkip
-version: 1
-author: NickG365
-depends: ['BungeeYAML']
-#website: http://gameon365.net
-#email: nick@gameon365.net
+main: re.dbn.david191212.plugins.bungee.SessionSkip
+version: 1.7
+author: David191212
+#Original author: NickG365
+#Original website: http://gameon365.net
+#Original email: nick@gameon365.net

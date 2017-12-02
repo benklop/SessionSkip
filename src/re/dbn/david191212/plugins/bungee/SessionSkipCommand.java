@@ -1,4 +1,4 @@
-package net.gameon365.mc.plugins.bungee.sessionskip;
+package re.dbn.david191212.plugins.bungee;
 
 import java.util.logging.Level;
 import net.md_5.bungee.api.CommandSender;
@@ -49,7 +49,7 @@ public class SessionSkipCommand extends Command
             {
                 case "reload":
                     this.plugin.onDisable();
-                    this.plugin.reloadConfig();
+                    this.plugin.getConfig();
                     this.plugin.onEnable();
                     this.sendMessage( p, "[SessionSkip] Plugin reloaded." );
                     this.plugin.getLogger().log( Level.INFO, "[SessionSkip] Plugin reloaded by {0}.", name );
