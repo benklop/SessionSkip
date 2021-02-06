@@ -1,5 +1,5 @@
 name: SessionSkip
-main: re.dbn.david191212.plugins.bungee.SessionSkip
+main: us.benklop.sessionskip.SessionSkip
 version: 1.7
 author: David191212
 #Original author: NickG365
