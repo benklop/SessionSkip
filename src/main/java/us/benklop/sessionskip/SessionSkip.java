@@ -1,4 +1,4 @@
-package re.dbn.david191212.plugins.bungee;
+package us.benklop.sessionskip;
 
 import java.io.File;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package re.dbn.david191212.plugins.bungee;
+package us.benklop.sessionskip;
 
 import java.util.logging.Level;
 import net.md_5.bungee.api.CommandSender;
